@@ -1,7 +1,7 @@
 // Task 1: Create the Profile
 let userProfile = {
     userName: "Miles Turing",
-    age: 30,
+    age: 29,
     subscriptionStatus: "Active",
     location: "New Mexico, USA",
     hobbies: ["Hiking", "Mountain Biking"]
